@@ -6,14 +6,14 @@
 
 msg_color               #888888
 msg_font                Sans:size=18:bold:dpi=75
-msg_x                   50%
+msg_x                   10%
 msg_y                   30%
 
 # Session Name
 
 session_color               #888888
 session_font                Sans:size=16:bold:dpi=75
-session_x                   50%
+session_x                   80%
 session_y                   90%
 
 # valid values: stretch, tile
@@ -23,13 +23,13 @@ background_color        #000000
 
 # Input controls
 
-input_panel_x           50%
-input_panel_y           50%
-input_name_x            165
+input_panel_x           10%
+input_panel_y           70%
+input_name_x            145
 input_name_y            46
-input_pass_x            165
+input_pass_x            145
 input_pass_y            112
-input_font              Sans:size=13:dpi=75
+input_font              Sans:size=16:dpi=75
 input_color             #888888
 
 username_msg
